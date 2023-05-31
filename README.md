@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<h1>Mathematics Lab Programs 2</h1>
-	<p>Welcome to the "Mathematics Lab Programs 2" Github repository! This repository is a comprehensive collection of all the programs and codes taught in the M2 Lab of SDMCET, 2022 - 23. The programs cover mathematical applications and problem solving using Python libraries such as numpy, sympy, and matplot lib.</p>
+	<h1>M2 Lab Programs</h1>
+	<p>Welcome to the "M2 Lab Programs" Github repository! This repository is a comprehensive collection of all the programs and codes taught in the M2 Lab of SDMCET, 2022 - 23. The programs cover mathematical applications and problem solving using Python libraries such as numpy, sympy, and matplot lib.</p>
 	<p>This repository does not have any license. The programs are intended for educational purposes.</p>
 	<h2>Table of Contents</h2>
 	<ul>
@@ -24,9 +24,9 @@
   <pre><code>pip install matplotlib</code></pre>
 	<h2 id="usage">Usage</h2>
 	<p>To use the programs in this repository, simply clone the repository to your local machine using the following command:</p>
-	<pre><code>git clone https://github.com/JoyM268/Mathematics-Lab-Programs-2.git</code></pre>
+	<pre><code>git clone https://github.com/JoyM268/M2-Lab-Programs.git</code></pre>
 	<p>Alternatively, you can download all the code in this repository as a zip file by clicking the link: 
-    <a href="https://github.com/JoyM268/Mathematics-Lab-Programs-1/archive/refs/heads/main.zip">Download Zip File</a>
+    <a href="https://github.com/JoyM268/M2-Lab-Programs/archive/refs/heads/main.zip">Download Zip File</a>
   </p>
 	<p>After cloning the repository, you can navigate to the directory containing the <a href="https://jupyter.org/">Jupyter Notebook</a> file you wish to open and run the file using Jupyter notebook.</p>
 	<h2 id="contributing">Contributing</h2>
