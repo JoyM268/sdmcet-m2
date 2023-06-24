@@ -32,6 +32,6 @@
 	<h2 id="contributing">Contributing</h2>
 	<p>Contributions to this repository are welcome. If you find a bug or wish to add a new program, please create a new branch, make your changes, and create a pull request. Your contributions will be reviewed and merged if they meet the requirements of this repository.</p>
 	<h2 id="contact">Contact</h2>
-	<p>If you have any questions or concerns about this repository, please contact the owner at joymascarenhas268@gmail.com. Thank you for using the "Mathematics Lab Programs 1" Github repository!</p>
+	<p>If you have any questions or concerns about this repository, please contact the owner at joymascarenhas268@gmail.com. Thank you for using the "Mathematics Lab Programs 2" Github repository!</p>
 
 
